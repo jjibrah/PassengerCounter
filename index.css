@@ -24,6 +24,7 @@ h2{
    }
    
    .tools {
+    margin-top: 10px;
     display: flex;
     align-items: center;
     padding: 9px;
